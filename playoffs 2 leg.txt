@@ -1,0 +1,53 @@
+{
+    "matchid": 100003,
+    "team1": {
+    "name": "AaB esport",
+    "players": {
+      "76561198212412773": "Maze",
+      "76561198257919176": "qx",
+      "76561198283226264": "N4XX1S",
+      "76561199439779019": "bekker",
+      "76561198058045464": "Mol011"
+      }
+    },
+    "team2": {
+      "name": "OlyBet SB",
+      "players": {
+        "76561198057797475": "yaankz",
+        "76561198212318784": "discplex",
+        "76561198225120272": "Frip",
+        "76561198213027407": "ChipaaN",
+        "76561198273767120": "hexoq"
+      }
+    },
+    "num_maps": 3,
+    "maplist": [
+      "de_mirage",
+      "de_inferno",
+      "de_dust2"
+    ],
+    "map_sides": [
+      "team1_t",
+      "team2_ct",
+      "knife"
+    ],
+    "spectators": {
+        "players": {
+      "76561198053473455": "[UC] SMM",
+      "76561199188776460": "[OBS] mAa4a",
+      "76561198367886994": "[TournOps] mAa4a",
+      "76561199105817207": "[ADMIN] t0mz",
+      "76561198830578381": "[OBS] Devg"   
+          }
+    },
+    "clinch_series": true,
+    "players_per_team": 5,
+    "cvars": {
+        "mp_spec_swapplayersides": "1",
+        "tv_delay": "0",
+        "tv_delay1": "0",
+        "hostname": "Urban Riga Open #2 | 31 | AaB esport vs OlyBet SB",,
+        "mp_friendlyfire": "1"
+      }
+  }
+  
