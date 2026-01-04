@@ -1,1 +1,52 @@
-
+{
+    "matchid": 32,
+    "team1": {
+    "name": "Mouz NXT",
+    "players": {
+      "76561198254835598": "ay0k",
+      "76561198407480534": "Nikodeon",
+      "76561198998266210": "xelex",
+      "76561198377256168": "Joey",
+      "76561198295739416": "opdust"
+      }
+    },
+    "team2": {
+    "name": "Friendly Campers",
+    "players": {
+      "76561198150702257": "reiko",
+      "76561198110806694": "SaMey",
+      "76561198201140907": "bajmi",
+      "76561198883522068": "olimp",
+      "76561199102431599": "moonwalk"
+      }
+    },
+    "num_maps": 3,
+    "maplist": [
+      "de_mirage",
+      "de_inferno",
+      "de_dust2"
+    ],
+    "map_sides": [
+      "team1_t",
+      "team2_ct",
+      "knife"
+    ],
+    "spectators": {
+        "players": {
+      "76561198053473455": "[UC] SMM",
+      "76561199188776460": "[OBS] mAa4a",
+      "76561198367886994": "[TournOps] mAa4a",
+      "76561199105817207": "[ADMIN] t0mz",
+      "76561198830578381": "[OBS] Devg"   
+          }
+    },
+    "clinch_series": true,
+    "players_per_team": 5,
+    "cvars": {
+        "mp_spec_swapplayersides": "1",
+        "tv_delay": "0",
+        "tv_delay1": "0",
+        "hostname": "Urban Riga Open #2 | 32 | Mouz NXT vs Friendly Campers",,
+        "mp_friendlyfire": "1"
+      }
+  }
