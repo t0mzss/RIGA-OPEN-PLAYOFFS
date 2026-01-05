@@ -37,7 +37,7 @@
       "76561199188776460": "[OBS] mAa4a",
       "76561198367886994": "[TournOps] mAa4a",
       "76561199105817207": "[ADMIN] t0mz",
-      "76561198830578381": "[OBS] Devg"   
+      "76561199188776460": "[OBS] KleverrCam"   
           }
     },
     "clinch_series": true,
@@ -46,7 +46,8 @@
         "mp_spec_swapplayersides": "1",
         "tv_delay": "0",
         "tv_delay1": "0",
-        "hostname": "Urban Riga Open #2 | 32 | Mouz NXT vs Friendly Campers",,
+        "hostname": "Urban Riga Open #2 | 32 | Mouz NXT vs Friendly Campers",
         "mp_friendlyfire": "1"
       }
   }
+
