@@ -22,9 +22,9 @@
     },
     "num_maps": 3,
     "maplist": [
-      "de_mirage",
-      "de_inferno",
-      "de_dust2"
+      "de_nuke",
+      "de_dust2",
+      "de_ancient"
     ],
     "map_sides": [
       "team1_t",
@@ -50,4 +50,5 @@
         "mp_friendlyfire": "1"
       }
   }
+
 
