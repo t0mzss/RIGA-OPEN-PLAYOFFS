@@ -22,8 +22,8 @@
     },
     "num_maps": 3,
     "maplist": [
-      "de_ancient",
-      "de_train",
+      "de_dust2",
+      "de_nuke",
       "de_inferno"
     ],
     "map_sides": [
