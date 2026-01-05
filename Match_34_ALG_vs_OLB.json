@@ -1,5 +1,5 @@
 {
-    "matchid": 31,
+    "matchid": 34,
     "team1": {
     "name": "ALGO Esports",
     "players": {
@@ -46,7 +46,7 @@
         "mp_spec_swapplayersides": "1",
         "tv_delay": "0",
         "tv_delay1": "0",
-        "hostname": "Urban Riga Open #2 | 31 | ALGO Esports vs OlyBet SB",
+        "hostname": "Urban Riga Open #2 | 34 | ALGO Esports vs OlyBet SB",
         "mp_friendlyfire": "1"
       }
   }
